@@ -1,6 +1,4 @@
 
-
-
 ## 👋 Hello! Welcome to my Github profile.
 
 ### Ferramentas e Tecnologias
